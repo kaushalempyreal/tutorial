@@ -7,3 +7,4 @@ another change from new branch.
 changes in newfile from newtemp branch.
 
 another change from new branch.
+change in master
