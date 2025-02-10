@@ -1,3 +1,6 @@
 neew file.
 
 new chage in master.
+changes in newfile from newtemp branch.
+
+another change from new branch.
