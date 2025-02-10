@@ -1,1 +1,5 @@
 this is diff test file.
+
+changes in diff file for comparison.
+
+change after staging previous change.
