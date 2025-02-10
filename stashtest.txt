@@ -1,0 +1,7 @@
+this is stash command test file.
+
+changes made after adding this file and stash.
+
+trying apply changes.
+
+changes after git stash apply. this command will make a copy of stash in working directory.
